@@ -1,0 +1,12 @@
+{
+  "ids": {
+    "Alumno": 5
+  },
+  "models": {
+    "Alumno": {
+      "1": "{\"nombre\":\"DIANA ISABEL\",\"apellidoP\":\"AGUILAR\",\"apellidoM\":\"NAVARRO\",\"email\":\"daguilar351@accitesz.com\",\"idAlumno\":1}",
+      "2": "{\"nombre\":\"SERGIO\",\"apellidoP\":\"CASTILLO\",\"apellidoM\":\"RÍOS\",\"email\":\"scastillo368@accitesz.com\",\"idAlumno\":2}",
+      "3": "{\"nombre\":\"JORGE DANIEL\",\"apellidoP\":\"CAZAREZ\",\"apellidoM\":\"HERNANDEZ\",\"email\":\"jcazarez359@accitesz.com\",\"idAlumno\":3}"
+    }
+  }
+}
